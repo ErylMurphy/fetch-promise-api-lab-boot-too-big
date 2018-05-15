@@ -1,0 +1,29 @@
+body {
+  text-align: center;
+  background: black;
+  color: #fffad5;
+
+  background: #105b63;
+  font-family: 'Roboto', sans-serif;
+}
+
+li {
+  list-style: none;
+}
+
+h1 {
+  font-size: 50px;
+  font-family: 'Skranji', cursive;
+}
+
+.reddit-img {
+  max-width: 800px;
+}
+
+.title {
+  color: #db9e36;
+}
+.related {
+  margin-top: 40px;
+  color: #ffd34e;
+}
